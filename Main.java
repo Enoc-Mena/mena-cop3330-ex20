@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    private static DecimalFormat df2 = new DecimalFormat("#.##"); //Formats BMI output to 2 decimal places
+    private static DecimalFormat df2 = new DecimalFormat("#.##"); //Formats output to 2 decimal places
 
     public static void main(String[] args) {
 
